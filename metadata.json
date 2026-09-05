@@ -1,0 +1,6 @@
+{
+  "name": "Servexa",
+  "description": "On-Demand Service Marketplace Platform with Royal Blue theme, Web Storefront Portal, and Provider Store Subdomains ($5/mo) with full booking, wallet payments, live tracking, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
